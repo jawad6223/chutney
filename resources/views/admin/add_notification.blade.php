@@ -6,10 +6,10 @@
          <div class="loader-index"><span></span></div>
          <svg>
             <defs></defs>
-            <filter id="goo">
+            <!-- <filter id="goo">
                <fegaussianblur in="SourceGraphic" stddeviation="11" result="blur"></fegaussianblur>
                <fecolormatrix in="blur" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9" result="goo"> </fecolormatrix>
-            </filter>
+            </filter> -->
          </svg>
       </div>
       <div class="page-wrapper compact-wrapper" id="pageWrapper">
