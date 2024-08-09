@@ -24,7 +24,7 @@
                         <div class="col-6">
                            <h3>Benachrichtigung hinzufügen</h3>
                         </div>
-                        <div class="col-6">
+                        <!-- <div class="col-6">
                            <ol class="breadcrumb">
                               <li class="breadcrumb-item"><a>                                      
                                  <i data-feather="home"></i></a>
@@ -32,7 +32,7 @@
                               <li class="breadcrumb-item">Benachrichtigung</li>
                               <li class="breadcrumb-item active"> Benachrichtigung hinzufügen</li>
                            </ol>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
